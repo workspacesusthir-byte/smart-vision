@@ -1,0 +1,6 @@
+{
+  "name": "The Smart Vision - Abacus & Mental Math Academy",
+  "description": "Premier Abacus & Mental Math Academy for children aged 4 to 15. Interactive quiz portal, student and teacher dashboards, and Hostinger-ready Laravel 13 architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
